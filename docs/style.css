@@ -6,32 +6,25 @@ body {
 h1 {
 	font-family: helvetica; 
     color: gray !IMPORTANT;
-    font-size: 20px;
 }
 
 .button {
     background-color: #52B3D9;
     border: none;
     color: white;
-    padding: 5px 15px 5px;
     text-align: center;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
-    border-radius: 4px;
 }
 
 .button:active{
 	background-color: #81CFE0
 }
 
-.container {
-  padding-top: 20px;
-}
-
  p {
   color: #52B3D9;
   font-family: helvetica, verdana;
-  font-size: 20px;
+  font-size: 2rem;
 }
 

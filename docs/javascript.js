@@ -27,8 +27,13 @@ var quotesArray = [
 	"De todos os benéficos nem tudo é tão bom - BARBOSA, Iago",
 	"Errar não é errado. - CELI, Mariama",
 	"Tudo que podemos esperar dessa vida: amar e ser amado. - PINTOR, Hilton",
-	"Difícil é encontrar um grande amor o resto é trivial. - SILVA, Arquimedes"
-
+	"Difícil é encontrar um grande amor o resto é trivial. - SILVA, Arquimedes",
+	"Quem disse que isso é o fim? É um novo começo. - SANTANA, Elton",
+	"Sem revolução não tem evolução - OLIVEIRA, Daniel",
+	"Não se trata de ter, mas a disposição em fazer. - BARBOSA, Iago",
+	"Que app é esse? Real life, já vem instalado em nossos sistemas operacionais. -  OLIVEIRA, Daniel & SANTANA, Elton",
+	"Quando errar, corra atrás só na reincidência do erro, você aprende mais com ele. -  OLIVEIRA, Daniel",
+	"Ou você é parte da solução ou é parte do problema. - PINTOR, Hilton"
 ]
 
 function newQuote() {
